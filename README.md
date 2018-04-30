@@ -10,6 +10,7 @@ and try to find some interesting through the data processing.
 
 As we expect, the histogram of player Overall Rating seem to be symmetric. This is the output variable in this project.
 I want to know the base of deriving player overall rating. 
+
 ![image](https://github.com/mingmingccc/DataIncubatorProject/blob/master/DI%20RATE.jpg)
 
 I will build a linear regression model to see the relationship between Overall Rating and other attributes.
